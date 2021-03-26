@@ -34,7 +34,7 @@ For a catch-up on `git` commands, there is a short guide called`git-cheat-sheet.
 
 ## **IMPORTANT STEP!**
 
-Please ensure you do this otherwise it will not work for you. First you need to **fork** this repository so that you can edit and change it yourself. Once you have forked the repository, run the following commands:
+Please ensure you do this otherwise it will not work for you. First you need to **fork** this repository so that you can edit and change it yourself. Once you have forked the repository, run the following commands (replace the url with your own from your forked repository when cloning):
 
 1. Clone the repository to your machine, using `https` or `ssh`: 
    
